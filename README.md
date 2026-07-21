@@ -1,6 +1,6 @@
 # The Small Hours
 
-One street, four doors, all of them open late.
+One street, five doors, all of them open late.
 
 - **House of Dice** — the den upstairs: roll, bend the odds, climb the
   ladder. <https://ordodox.github.io/houseofdice/>
@@ -10,6 +10,10 @@ One street, four doors, all of them open late.
   deckbuilder of midnight mail. <https://ordodox.github.io/nightpost/>
 - **The Cellar** — below the pub: a lantern, three floors, the rats,
   the lost keg. <https://ordodox.github.io/thecellar/>
+- **The Taproom** — behind the bar itself: the cask brews while you
+  sleep, the pours are timed, the wagers are bluffed, and the old
+  barkeep's ghost works the same room.
+  <https://ordodox.github.io/thetaproom/>
 
 Every game shares the street's rules: a seed deals the night, your
 choices do the rest, and a challenge link hands the exact same night to
